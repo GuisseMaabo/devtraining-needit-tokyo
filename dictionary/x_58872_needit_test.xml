@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="379db4e32f3a915005232ea62799b60c" extends="sys_import_set_row" label="Test" max_length="40" name="x_58872_needit_test" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_user_name" label="user name" max_length="40" name="u_user_name" type="string"/>
+    </element>
+</database>
